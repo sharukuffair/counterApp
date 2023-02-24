@@ -4,8 +4,6 @@ let minusEle = document.querySelector(".minus");
 let plusEle = document.querySelector(".plus");
 let counterEle = document.querySelector(".counter");
 
-console.log(typeof counterEle.textContent);
-
 function increment() {
   let value = parseInt(counterEle.textContent);
   value = value + 1;
