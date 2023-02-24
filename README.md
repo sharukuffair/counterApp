@@ -1,2 +1,2 @@
 # counterApp
-Created with CodeSandbox
+A simple count app using js.
